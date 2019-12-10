@@ -33,3 +33,19 @@ main{
     padding: 10px;
     margin: 0 auto;
 }
+
+p{
+    text-align: center;
+}
+
+.align{
+    text-align: center;
+}
+
+a{
+    color: red;
+}
+
+.img{
+    color: red;
+}
